@@ -1,6 +1,6 @@
 {
     "config_version": 20200603,
-    "name": "tasktracker",
+    "name": "tasktracker-gs",
     "location": "US-VA",
     "deployment_model": "GLOBAL",
     "security": {},
